@@ -1,0 +1,12 @@
+[run]
+source = .
+omit = 
+    */boilerenv/*
+    */tests/*
+    */migrations/*
+    */urls.py
+    */settings/*
+    */wsgi.py
+    */asgi.py
+    manage.py
+    fabfile.py
